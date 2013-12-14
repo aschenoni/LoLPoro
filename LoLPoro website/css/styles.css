@@ -24,3 +24,15 @@ body {
     display: table-cell;
     vertical-align: middle;
 }
+
+#header {
+	background-color: #8CC88C;
+	color: #C7F5FB;
+	margin-left: 5px;
+	border: 1px solid #8CC88C;
+	border-top: none;
+	width: 65px;
+	text-align: center;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
