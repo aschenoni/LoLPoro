@@ -2,10 +2,12 @@ body {
 	background-color: #C7F5FB;
 	font-family: sans-serif;
 	color: #311FB9;
+	margin: 0;
+	padding: 0;
 }
 
 .inner {
-	width: 612px;
+	width: 615px;
 	margin-left: auto;
     margin-right: auto;
     text-align: center;
