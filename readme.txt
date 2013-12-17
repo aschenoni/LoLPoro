@@ -11,5 +11,4 @@ Project Parts:
 	--Project Management
 
 
-Webiste:
-	Color Scheme: http://design-seeds.com/index.php/home/entry/swirling-blues
+Webistes: 
